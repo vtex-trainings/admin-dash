@@ -1,4 +1,6 @@
 {
   "admin.app.example": {
+    "component": "AdminExample",
+    "path": "/admin/app/example"
   }
 }

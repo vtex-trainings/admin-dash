@@ -7,7 +7,7 @@ import "./styles.global.css";
 class AdminExample extends Component {
   public render() {
     return (
-    );
+    )
   }
 }
 
